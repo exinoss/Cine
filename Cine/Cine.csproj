@@ -51,11 +51,11 @@
     <Compile Include="Controlador\clsFuncion.cs" />
     <Compile Include="Controlador\clsPelicula.cs" />
     <Compile Include="Controlador\clsSala.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Vista\Menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Vista\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
     <Compile Include="Modelo\dtoBoleto.cs" />
     <Compile Include="Modelo\dtoFuncion.cs" />
@@ -87,8 +87,20 @@
     <Compile Include="Vista\CUSala.Designer.cs">
       <DependentUpon>CUSala.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Vista\CUBoleto.resx">
+      <DependentUpon>CUBoleto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CUFuncion.resx">
+      <DependentUpon>CUFuncion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CUPelicula.resx">
+      <DependentUpon>CUPelicula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\CUSala.resx">
+      <DependentUpon>CUSala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

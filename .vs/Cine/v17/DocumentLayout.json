@@ -3,64 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\modelo\\dtoboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\modelo\\dtoboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cuboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cuboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\modelo\\dtopelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\modelo\\dtopelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\modelo\\dtosala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\modelo\\dtosala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\modelo\\dtofuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\modelo\\dtofuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\controlador\\clsboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\controlador\\clsboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\controlador\\clspelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\controlador\\clspelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\controlador\\clsfuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\controlador\\clsfuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\controlador\\clssala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\controlador\\clssala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cuboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cuboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\config\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\modelo\\dtopelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\modelo\\dtopelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\controlador\\clspelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\controlador\\clspelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cupelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cupelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cupelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cupelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cusala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cusala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cufuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cufuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cuboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cuboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cufuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cufuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cusala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cusala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\cusala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\cusala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\controlador\\clsboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\controlador\\clsboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\controlador\\clsfuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\controlador\\clsfuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\modelo\\dtofuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\modelo\\dtofuncion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\controlador\\clssala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\controlador\\clssala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\modelo\\dtoboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\modelo\\dtoboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\modelo\\dtosala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\modelo\\dtosala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\examen\\cine\\cine\\vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{587DA276-5ACF-48E1-A08A-17B49DFE29B4}|Cine\\Cine.csproj|solutionrelative:cine\\vista\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,191 +91,243 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "dtoBoleto.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoBoleto.cs",
-              "RelativeDocumentMoniker": "Cine\\Modelo\\dtoBoleto.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoBoleto.cs",
-              "RelativeToolTip": "Cine\\Modelo\\dtoBoleto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CUBoleto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUBoleto.cs",
+              "RelativeDocumentMoniker": "Cine\\Vista\\CUBoleto.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUBoleto.cs*",
+              "RelativeToolTip": "Cine\\Vista\\CUBoleto.cs*",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAswKUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:46:29.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dtoPelicula.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoPelicula.cs",
-              "RelativeDocumentMoniker": "Cine\\Modelo\\dtoPelicula.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoPelicula.cs",
-              "RelativeToolTip": "Cine\\Modelo\\dtoPelicula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:46:20.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dtoSala.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoSala.cs",
-              "RelativeDocumentMoniker": "Cine\\Modelo\\dtoSala.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoSala.cs",
-              "RelativeToolTip": "Cine\\Modelo\\dtoSala.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:46:12.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dtoFuncion.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoFuncion.cs",
-              "RelativeDocumentMoniker": "Cine\\Modelo\\dtoFuncion.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoFuncion.cs",
-              "RelativeToolTip": "Cine\\Modelo\\dtoFuncion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:46:03.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "clsBoleto.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsBoleto.cs",
-              "RelativeDocumentMoniker": "Cine\\Controlador\\clsBoleto.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsBoleto.cs",
-              "RelativeToolTip": "Cine\\Controlador\\clsBoleto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:45:55.506Z",
+              "WhenOpened": "2025-02-07T23:11:39.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "clsPelicula.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsPelicula.cs",
-              "RelativeDocumentMoniker": "Cine\\Controlador\\clsPelicula.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsPelicula.cs",
-              "RelativeToolTip": "Cine\\Controlador\\clsPelicula.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CUPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUPelicula.cs",
+              "RelativeDocumentMoniker": "Cine\\Vista\\CUPelicula.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUPelicula.cs",
+              "RelativeToolTip": "Cine\\Vista\\CUPelicula.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:45:44.647Z",
+              "WhenOpened": "2025-02-07T23:02:48.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "clsFuncion.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsFuncion.cs",
-              "RelativeDocumentMoniker": "Cine\\Controlador\\clsFuncion.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsFuncion.cs",
-              "RelativeToolTip": "Cine\\Controlador\\clsFuncion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:45:31.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "clsSala.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsSala.cs",
-              "RelativeDocumentMoniker": "Cine\\Controlador\\clsSala.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsSala.cs",
-              "RelativeToolTip": "Cine\\Controlador\\clsSala.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:45:20.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Config\\Conexion.cs",
-              "RelativeDocumentMoniker": "Cine\\Config\\Conexion.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Config\\Conexion.cs",
-              "RelativeToolTip": "Cine\\Config\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:45:09.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Cine\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Form1.Designer.cs",
-              "RelativeToolTip": "Cine\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:41:33.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "CUPelicula.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUPelicula.cs",
               "RelativeDocumentMoniker": "Cine\\Vista\\CUPelicula.cs",
               "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUPelicula.cs [Dise\u00F1o]",
               "RelativeToolTip": "Cine\\Vista\\CUPelicula.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:41:31.133Z",
+              "WhenOpened": "2025-02-07T21:51:12.215Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CUSala.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUSala.cs",
-              "RelativeDocumentMoniker": "Cine\\Vista\\CUSala.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUSala.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Cine\\Vista\\CUSala.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "CUBoleto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUBoleto.cs",
+              "RelativeDocumentMoniker": "Cine\\Vista\\CUBoleto.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUBoleto.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Cine\\Vista\\CUBoleto.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:41:16.591Z",
+              "WhenOpened": "2025-02-07T21:51:27.735Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
+              "Title": "CUFuncion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUFuncion.cs",
+              "RelativeDocumentMoniker": "Cine\\Vista\\CUFuncion.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUFuncion.cs",
+              "RelativeToolTip": "Cine\\Vista\\CUFuncion.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAswKoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:49:29.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Config\\Conexion.cs",
+              "RelativeDocumentMoniker": "Cine\\Config\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Config\\Conexion.cs",
+              "RelativeToolTip": "Cine\\Config\\Conexion.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:55:43.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsPelicula.cs",
+              "RelativeDocumentMoniker": "Cine\\Controlador\\clsPelicula.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsPelicula.cs",
+              "RelativeToolTip": "Cine\\Controlador\\clsPelicula.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:55:29.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dtoPelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoPelicula.cs",
+              "RelativeDocumentMoniker": "Cine\\Modelo\\dtoPelicula.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoPelicula.cs",
+              "RelativeToolTip": "Cine\\Modelo\\dtoPelicula.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwGgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:53:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CUFuncion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUFuncion.cs",
               "RelativeDocumentMoniker": "Cine\\Vista\\CUFuncion.cs",
               "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUFuncion.cs [Dise\u00F1o]",
               "RelativeToolTip": "Cine\\Vista\\CUFuncion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:41:03.666Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CUBoleto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUBoleto.cs",
-              "RelativeDocumentMoniker": "Cine\\Vista\\CUBoleto.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUBoleto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Cine\\Vista\\CUBoleto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:40:47.768Z",
+              "WhenOpened": "2025-02-07T21:51:22.854Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Form1.cs",
-              "RelativeDocumentMoniker": "Cine\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Cine\\Form1.cs [Dise\u00F1o]",
+              "Title": "CUSala.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUSala.cs",
+              "RelativeDocumentMoniker": "Cine\\Vista\\CUSala.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUSala.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cine\\Vista\\CUSala.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T21:10:27.288Z",
+              "WhenOpened": "2025-02-07T21:51:07.005Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CUSala.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUSala.cs",
+              "RelativeDocumentMoniker": "Cine\\Vista\\CUSala.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\CUSala.cs",
+              "RelativeToolTip": "Cine\\Vista\\CUSala.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwKEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:59:38.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsBoleto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsBoleto.cs",
+              "RelativeDocumentMoniker": "Cine\\Controlador\\clsBoleto.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsBoleto.cs",
+              "RelativeToolTip": "Cine\\Controlador\\clsBoleto.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:56:22.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsFuncion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsFuncion.cs",
+              "RelativeDocumentMoniker": "Cine\\Controlador\\clsFuncion.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsFuncion.cs",
+              "RelativeToolTip": "Cine\\Controlador\\clsFuncion.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:56:08.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dtoFuncion.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoFuncion.cs",
+              "RelativeDocumentMoniker": "Cine\\Modelo\\dtoFuncion.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoFuncion.cs",
+              "RelativeToolTip": "Cine\\Modelo\\dtoFuncion.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwHoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:54:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsSala.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsSala.cs",
+              "RelativeDocumentMoniker": "Cine\\Controlador\\clsSala.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Controlador\\clsSala.cs",
+              "RelativeToolTip": "Cine\\Controlador\\clsSala.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:55:41.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dtoSala.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoSala.cs",
+              "RelativeDocumentMoniker": "Cine\\Modelo\\dtoSala.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoSala.cs",
+              "RelativeToolTip": "Cine\\Modelo\\dtoSala.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T22:54:11.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dtoBoleto.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoBoleto.cs",
+              "RelativeDocumentMoniker": "Cine\\Modelo\\dtoBoleto.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Modelo\\dtoBoleto.cs",
+              "RelativeToolTip": "Cine\\Modelo\\dtoBoleto.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:58:10Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\Menu.cs",
+              "RelativeDocumentMoniker": "Cine\\Vista\\Menu.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\Menu.cs",
+              "RelativeToolTip": "Cine\\Vista\\Menu.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswC8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:52:11.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\Menu.cs",
+              "RelativeDocumentMoniker": "Cine\\Vista\\Menu.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Examen\\Cine\\Cine\\Vista\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cine\\Vista\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:47:01.191Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

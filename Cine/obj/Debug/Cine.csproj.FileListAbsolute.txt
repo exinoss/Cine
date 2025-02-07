@@ -1,0 +1,14 @@
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\bin\Debug\Cine.exe.config
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\bin\Debug\Cine.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\bin\Debug\Cine.pdb
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.Vista.CUBoleto.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.Vista.CUFuncion.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.Vista.CUPelicula.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.Vista.CUSala.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.Menu.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Juan\Examen\Cine\Cine\obj\Debug\Cine.pdb
